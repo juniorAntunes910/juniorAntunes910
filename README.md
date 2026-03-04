@@ -1,6 +1,6 @@
 ## JuniorAntunes910
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Junior Gabriel Antunes de Souza, tenho 18 anos e sou natural de São Paulo. Atualmente, estou cursando Engenharia de Software na Católica de Jaraguá do Sul (SC) e também estou no segundo ano do curso técnico em Desenvolvimento de Sistemas no CentroWEG.
 

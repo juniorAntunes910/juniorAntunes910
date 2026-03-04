@@ -74,19 +74,10 @@ Tenho experiência em programação com Java, HTML, CSS e JavaScript, desenvolve
 <br/>
 <br/>
 
-<div>
-  <a href="https://github.com/JuniorAntunes910">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorAntunes910&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorAntunes910&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
 
 <img src="https://streak-stats.demolab.com?user=JuniorAntunes910&theme=tokyonight&hide_border=true"/>
 
-## 📈 Atividade
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuniorAntunes910&theme=tokyo-night"/>
 
-![Snake animation](https://github.com/JuniorAntunes910/JuniorAntunes910/blob/output/github-contribution-grid-snake.svg)
 
 

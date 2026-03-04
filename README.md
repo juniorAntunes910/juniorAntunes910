@@ -23,16 +23,6 @@ Atualmente focado em evoluir como desenvolvedor full stack e aprofundar conhecim
 
 ---
 
-## 📊 Estatísticas
-
-<div>
-  <a href="https://github.com/JuniorAntunes910">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorAntunes910&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorAntunes910&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
-
----
 
 ## 🔥 Sequência de Contribuições
 
@@ -45,32 +35,3 @@ Atualmente focado em evoluir como desenvolvedor full stack e aprofundar conhecim
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuniorAntunes910&theme=tokyo-night"/>
 
 ---
-
-## 🏆 Conquistas
-
-<img src="https://github-profile-trophy.vercel.app/?username=JuniorAntunes910&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
----
-
-## 🐍 Contribuições Animadas
-
-![Snake animation](https://github.com/JuniorAntunes910/JuniorAntunes910/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 📌 Projetos em Destaque
-
-<a href="https://github.com/JuniorAntunes910/NOME-DO-SEU-REPO">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=JuniorAntunes910&repo=NOME-DO-SEU-REPO&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/JuniorAntunes910/NOME-DO-SEU-OUTRO-REPO">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=JuniorAntunes910&repo=NOME-DO-SEU-OUTRO-REPO&theme=tokyonight"/>
-</a>
-
----
-
-## 📫 Contato
-
-- LinkedIn: (coloque aqui)
-- Email: (coloque aqui)

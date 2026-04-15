@@ -11,8 +11,9 @@ Atualmente focado em evoluir como desenvolvedor full stack e aprofundar conhecim
 
 ## 🚀 Tecnologias
 
-<div style="display: flex"><br>
+<div style="display: inline-block">
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -23,8 +24,6 @@ Atualmente focado em evoluir como desenvolvedor full stack e aprofundar conhecim
 
 ---
 
-
-
 ## 🔥 Sequência de Contribuições
 
 <img src="https://streak-stats.demolab.com?user=JuniorAntunes910&theme=tokyonight&hide_border=true"/>
@@ -34,5 +33,3 @@ Atualmente focado em evoluir como desenvolvedor full stack e aprofundar conhecim
 ## 📈 Atividade no GitHub
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuniorAntunes910&theme=tokyo-night"/>
-
----

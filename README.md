@@ -1,4 +1,3 @@
-```md
 # 👋 Olá, eu sou o Junior Gabriel Antunes de Souza
 
 <p align="center">
@@ -6,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:jugabriel2612@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/SEU_LINKEDIN">
@@ -17,7 +16,7 @@
 
 ---
 
-## 👨🏻‍💻 Sobre mim
+# 👨🏻‍💻 Sobre mim
 
 🎓 Estudante de **Engenharia de Software** na Católica de Jaraguá do Sul (SC).
 
@@ -29,7 +28,7 @@
 
 ---
 
-## 🚀 Tecnologias
+# 🚀 Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,typescript,javascript,nextjs,react,html,css,tailwind,bootstrap,postgres,mysql,git,github,docker,vscode,idea" />
@@ -37,7 +36,7 @@
 
 ---
 
-## 📊 Estatísticas
+# 📊 Estatísticas
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=JuniorAntunes910&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
@@ -46,7 +45,7 @@
 
 ---
 
-## 🔥 Sequência de Contribuições
+# 🔥 Sequência de Contribuições
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=JuniorAntunes910&theme=tokyonight&hide_border=true"/>
@@ -54,7 +53,7 @@
 
 ---
 
-## 📈 Atividade
+# 📈 Atividade
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuniorAntunes910&theme=tokyo-night&hide_border=true"/>
@@ -62,7 +61,7 @@
 
 ---
 
-## 🏆 Conquistas
+# 🏆 Conquistas
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JuniorAntunes910&theme=tokyonight&no-frame=true&row=1&column=6"/>
@@ -70,7 +69,7 @@
 
 ---
 
-## 📌 Atualmente estudando
+# 📚 Atualmente estudando
 
 - ☕ Java 21
 - 🌱 Spring Boot
@@ -83,9 +82,7 @@
 
 ---
 
-## 🐍 Contribuições
 
-> Após configurar a GitHub Action da Snake, descomente a linha abaixo.
 
 <!--
 <p align="center">
@@ -98,4 +95,3 @@
 <p align="center">
 ⭐ Obrigado por visitar meu perfil!
 </p>
-```
